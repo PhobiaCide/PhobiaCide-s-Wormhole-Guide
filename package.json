@@ -1,0 +1,26 @@
+{
+  "name": "phobiacide-s-wormhole-guide",
+  "version": "1.0.0",
+  "description": "A script attached to a Google Sheet that maintains up-to-date data.",
+  "main": "code.js",
+  "script": {
+    "generate-docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhobiaCide/PhobiaCide-s-Wormhole-Guide.git"
+  },
+  "keywords": [
+    "Eve",
+    "Online",
+    "Wormhole",
+    "Sleepers",
+    "guide"
+  ],
+  "author": "PhobiaCide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhobiaCide/PhobiaCide-s-Wormhole-Guide/issues"
+  },
+  "homepage": "https://github.com/PhobiaCide/PhobiaCide-s-Wormhole-Guide#readme"
+}
