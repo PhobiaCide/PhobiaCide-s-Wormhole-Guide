@@ -1,10 +1,19 @@
-# PhobiaCide-s-Wormhole-Guide
+# PhobiaCide's Wormhole Guide
 
-### Rykki's Wormhole Guide with a spruced up front end and back end.
+## Based on Rykki's Wormhole Guide
 
-## Features:
-  * ESI sleeper data for calculating DPS, EHP, etc.
-  * ESI Market data for up to date prices
-  
-<a href= "https://docs.google.com/spreadsheets/d/e/2PACX-1vSskkG0Lr8YTU1Qz1XrXGlIpqnHZsJePh9ipr1e2qUsmfVu8tzn0NNzAOeM7_omWbHxzWtQ5gO7V1SH/pubhtml"> Click here for PhobiaCide's Versioned Wormhole Guide</a>
+### Features
 
+#### Spruced up front end 
+  1. Ship Icons
+  1. Aesthetic and engaging graphical tables
+ 
+#### Up-to-date back end
+  1. Sleeper data for calculating DPS, EHP, and engagement profile is updated every day
+  1. Market data for all relevant types is updated every hour
+
+
+[Click here to see the guide!]("https://docs.google.com/spreadsheets/d/e/2PACX-1vSskkG0Lr8YTU1Qz1XrXGlIpqnHZsJePh9ipr1e2qUsmfVu8tzn0NNzAOeM7_omWbHxzWtQ5gO7V1SH/pubhtml")
+
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
