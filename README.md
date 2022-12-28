@@ -60,7 +60,7 @@ Know beforehand:
 
   ![Full Table](images/fullTable.png)
 
-### Some Key Figures From The Chart:
+### Some Key Columns From The Chart:
 
 |Figure|Definition|
 |------|----------|
