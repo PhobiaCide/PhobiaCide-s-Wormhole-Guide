@@ -120,7 +120,7 @@ The following graph is included in the guide and is actively calculated based on
  * @param {(number | string)} [regionId = 10000002]
  * @throws Will throw an error if dirtyTypeIds is undefined
  *
- * @returns
+ * @returns {array} Market data for the given types
  */
 function loadRegionAggregates(dirtyTypeIds, regionId = 10000002) {
   try {
